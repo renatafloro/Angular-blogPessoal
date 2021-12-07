@@ -1,4 +1,3 @@
-import { TokenizeOptions } from "@angular/compiler/src/ml_parser/lexer"
 import { Postagem } from "./Postagem"
 
 export class Usuario{
